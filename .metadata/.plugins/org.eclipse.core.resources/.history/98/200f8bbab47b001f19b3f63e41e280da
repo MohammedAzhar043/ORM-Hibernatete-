@@ -1,0 +1,17 @@
+package com.tut.ProjectWithMaven03a;
+
+import java.sql.Connection;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        
+    }
+}

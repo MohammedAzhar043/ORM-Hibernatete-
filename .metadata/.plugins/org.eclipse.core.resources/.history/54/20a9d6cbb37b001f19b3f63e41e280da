@@ -1,0 +1,8 @@
+package com.tut.ProjectWithMaven03a;
+
+public class Queston {
+
+	private int questionId;
+	private String questionDetails;
+	
+}

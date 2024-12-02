@@ -1,0 +1,27 @@
+package com.tut.ProjectWithMaven03a;
+
+
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       
+        SessionFactory factory  = new Configuration().configure("hibernate.config.xml").buildSessionFactory();
+        System.out.println(factory);
+        
+        Queston question = new Queston();
+        question.setQuestionId(1);
+        question.setQuestionDetails("what is java????");
+        
+        
+        
+    }
+}

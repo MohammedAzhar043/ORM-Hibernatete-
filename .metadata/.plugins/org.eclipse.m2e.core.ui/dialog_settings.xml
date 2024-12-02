@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\HP\ORM_HIBERNATE\ProjectWithoutMaven"/>
+			<item value="C:\Users\HP\ORM_HIBERNATE\ToDoApplication"/>
+			<item value="C:\Users\HP\ORM_HIBERNATE\ProjectWithMaven03\src\main\java\hibernate.config.xml"/>
+			<item value="C:\Users\HP\ORM_HIBERNATE\ProjectWithMaven02"/>
+			<item value="C:\Users\HP\ORM_HIBERNATE\ProjectWithMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.hql"/>
+			<item value="com.todo.ToDo"/>
+			<item value="com.taskmanager"/>
+			<item value="com.ToDoApplication"/>
+			<item value="com.todo"/>
+			<item value="com.todo.ToDoApplication"/>
+			<item value="com.tut.ProjectWithMaven03a"/>
+			<item value="com.tut.ProjectWithMaven03"/>
+			<item value="com.tut.ProjectWithMaven02a"/>
+		</list>
+		<list key="groupId">
+			<item value="com.hql"/>
+			<item value="com.todo"/>
+			<item value="com.taskmanager"/>
+			<item value="com.ToDoApplication"/>
+			<item value="com.tut"/>
+		</list>
+		<list key="artifactId">
+			<item value="HibernateQueryLan"/>
+			<item value="ToDo"/>
+			<item value="TaskManager"/>
+			<item value="ToDoList"/>
+			<item value="ToDoApplication"/>
+			<item value="TODOAPPLICATION"/>
+			<item value="NoteTaker"/>
+			<item value="ProjectWithMaven03a"/>
+			<item value="ProjectWithMaven03"/>
+			<item value="ProjectWithMaven02a"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

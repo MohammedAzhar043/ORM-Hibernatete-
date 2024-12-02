@@ -1,0 +1,10 @@
+package com.tut.ProjectWithMaven03a;
+
+public class Answer {
+
+	
+	private int answerId;
+	private String answerDetails;
+	
+	
+}

@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1119873322.index
+\ToDoApplication\src\main\resources
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\909124574.index
+\TaskManager\src\main\resources
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\resources
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\789204912.index
+\ToDoList\src\main\java
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\742395077.index
+\ToDo\src\main\java
+C:\Users\HP\ORM_HIBERNATE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\333390887.index
+\ToDo\src\main\resources

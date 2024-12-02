@@ -1,0 +1,28 @@
+package com.mapping1;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class DemoApplication {
+
+	public static void main(String[] args) {
+		
+		SessionFactory factory = new Configuration().configure("hibernate.config.xml").buildSessionFactory();
+		//creating the employee object
+		Employee e = new Employee();
+		Employee e1 = new Employee();
+		e.setEmpId(1);
+		e.setEmpName("mohammed azhar");
+		e1.setEmpId(2);
+		e1.setEmpName("mohammed azam");
+		 
+		
+		Project p1= new Project();
+		Project p2 = new Project();
+		
+		p1.setPid(10);
+		p1.setPname("bus management system");
+
+	}
+
+}

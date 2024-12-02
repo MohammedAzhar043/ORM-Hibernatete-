@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM 
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+ <session-factory>
+ 	
+ 	<property name="driver_class">"com.mysql.jdbc.Driver"</property>
+ 	<property name="connection.ulr">jdbc:mysql://localhost:3306/myhiber2</property>
+ 	<property name="connection.user">root</property>
+ 	<property name="connection.password">root</property>
+ 	
+ 	
+ </session-factory>
+
+</hibernate-configuration>

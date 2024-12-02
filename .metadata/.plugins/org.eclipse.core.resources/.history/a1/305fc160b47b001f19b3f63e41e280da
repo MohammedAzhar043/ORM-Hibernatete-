@@ -1,0 +1,53 @@
+package com.tut.ProjectWithMaven03a;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
+public class Queston {
+
+	@Id
+	@Column(name = "Question Id")
+	private int questionId;
+	private String questionDetails;
+
+	private Answer answer;
+
+	public int getQuestionId() {
+		return questionId;
+	}
+
+	public void setQuestionId(int questionId) {
+		this.questionId = questionId;
+	}
+
+	public String getQuestionDetails() {
+		return questionDetails;
+	}
+
+	public void setQuestionDetails(String questionDetails) {
+		this.questionDetails = questionDetails;
+	}
+
+	public Answer getAnswer() {
+		return answer;
+	}
+
+	public Queston(int questionId, String questionDetails, Answer answer) {
+		super();
+		this.questionId = questionId;
+		this.questionDetails = questionDetails;
+		this.answer = answer;
+	}
+
+	public Queston() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public void setAnswer(Answer answer) {
+		this.answer = answer;
+	}
+
+}
